@@ -1,0 +1,23 @@
+.carousal-img {
+    height: 505px;
+    width: 100%;
+
+}
+.App-body {
+    margin-top: 0px;
+}
+.sign-in-as {
+    margin: 45% 10px 10px 10px;
+}
+.signinas-img {
+    width: 80px;
+    /* text-align: center; */
+    position: absolute;
+    top: 120px;
+    right: 180px;
+}
+.background-img {
+    background: linear-gradient(rgba(255,255,255,1), rgba(255,255,255,.5)),url('../assets/images/manipurCollage.png');
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
